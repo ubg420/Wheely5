@@ -1,0 +1,859 @@
+{
+  "resources": [
+    "wheely5.ogg",
+    "wheely5.m4a",
+    "wheely5.mp3"
+  ],
+  "spritemap": {
+    "btnClick": {
+      "start": 0,
+      "end": 0.3076643990929705,
+      "loop": false
+    },
+    "btnOver": {
+      "start": 2,
+      "end": 2.5050340136054423,
+      "loop": false
+    },
+    "click": {
+      "start": 4,
+      "end": 4.210430839002267,
+      "loop": false
+    },
+    "levelFail": {
+      "start": 6,
+      "end": 7.626848072562359,
+      "loop": false
+    },
+    "levelWin": {
+      "start": 9,
+      "end": 13.053333333333335,
+      "loop": false
+    },
+    "lvl14_electricityDeadly": {
+      "start": 15,
+      "end": 16.69795918367347,
+      "loop": false
+    },
+    "lvl2_s_openDoor": {
+      "start": 18,
+      "end": 19.69795918367347,
+      "loop": false
+    },
+    "lvl8_s_gate": {
+      "start": 21,
+      "end": 23.821224489795917,
+      "loop": false
+    },
+    "questClick": {
+      "start": 25,
+      "end": 27.037551020408163,
+      "loop": false
+    },
+    "s_Access": {
+      "start": 29,
+      "end": 29.339591836734694,
+      "loop": false
+    },
+    "s_airFail": {
+      "start": 31,
+      "end": 36.25061224489796,
+      "loop": false
+    },
+    "s_airLoop": {
+      "start": 38,
+      "end": 39.12326530612245,
+      "loop": false
+    },
+    "s_air": {
+      "start": 41,
+      "end": 44.13469387755102,
+      "loop": false
+    },
+    "s_airStart": {
+      "start": 46,
+      "end": 46.73142857142857,
+      "loop": false
+    },
+    "s_alarm": {
+      "start": 48,
+      "end": 55.68,
+      "loop": false
+    },
+    "s_anten": {
+      "start": 57,
+      "end": 58.462857142857146,
+      "loop": false
+    },
+    "s_antenSignal": {
+      "start": 60,
+      "end": 61.56734693877551,
+      "loop": false
+    },
+    "s_attachment": {
+      "start": 63,
+      "end": 63.33959183673469,
+      "loop": false
+    },
+    "s_ballonHit": {
+      "start": 65,
+      "end": 66.54122448979592,
+      "loop": false
+    },
+    "s_barrelExplosion": {
+      "start": 68,
+      "end": 68.9404081632653,
+      "loop": false
+    },
+    "s_barrelFire": {
+      "start": 70,
+      "end": 72.40326530612245,
+      "loop": false
+    },
+    "s_blow": {
+      "start": 74,
+      "end": 75.46285714285715,
+      "loop": false
+    },
+    "s_boatLoop": {
+      "start": 77,
+      "end": 79.61224489795919,
+      "loop": false
+    },
+    "s_boatStart": {
+      "start": 81,
+      "end": 81.70530612244897,
+      "loop": false
+    },
+    "s_boatWater": {
+      "start": 83,
+      "end": 84.14938775510204,
+      "loop": false
+    },
+    "s_bombThrow": {
+      "start": 86,
+      "end": 88.87346938775511,
+      "loop": false
+    },
+    "s_boxMove": {
+      "start": 90,
+      "end": 90.75755102040816,
+      "loop": false
+    },
+    "s_boxOpen": {
+      "start": 92,
+      "end": 92.49632653061225,
+      "loop": false
+    },
+    "s_break": {
+      "start": 94,
+      "end": 96.11591836734694,
+      "loop": false
+    },
+    "s_bridgeParts": {
+      "start": 98,
+      "end": 101.00408163265305,
+      "loop": false
+    },
+    "s_burPick": {
+      "start": 103,
+      "end": 103.52244897959184,
+      "loop": false
+    },
+    "s_buy": {
+      "start": 105,
+      "end": 105.86204081632653,
+      "loop": false
+    },
+    "s_canalizationAmbient": {
+      "start": 107,
+      "end": 114.3926530612245,
+      "loop": false
+    },
+    "s_cartridge": {
+      "start": 116,
+      "end": 116.23510204081633,
+      "loop": false
+    },
+    "s_caw": {
+      "start": 118,
+      "end": 118.70530612244897,
+      "loop": false
+    },
+    "s_citynoise": {
+      "start": 120,
+      "end": 127.23591836734694,
+      "loop": false
+    },
+    "s_clickMonitor": {
+      "start": 129,
+      "end": 129.54857142857142,
+      "loop": false
+    },
+    "s_collapse": {
+      "start": 131,
+      "end": 132.46285714285713,
+      "loop": false
+    },
+    "s_connect": {
+      "start": 134,
+      "end": 134.3657142857143,
+      "loop": false
+    },
+    "s_cosmoDiag": {
+      "start": 136,
+      "end": 137.17551020408163,
+      "loop": false
+    },
+    "s_cow": {
+      "start": 139,
+      "end": 140.17551020408163,
+      "loop": false
+    },
+    "s_crush": {
+      "start": 142,
+      "end": 142.41795918367347,
+      "loop": false
+    },
+    "s_dialog": {
+      "start": 144,
+      "end": 145.69795918367348,
+      "loop": false
+    },
+    "s_done": {
+      "start": 147,
+      "end": 148.01877551020408,
+      "loop": false
+    },
+    "s_doorOut": {
+      "start": 150,
+      "end": 151.61959183673468,
+      "loop": false
+    },
+    "s_doorSpace": {
+      "start": 153,
+      "end": 154.07102040816326,
+      "loop": false
+    },
+    "s_drillEnd": {
+      "start": 156,
+      "end": 157.07102040816326,
+      "loop": false
+    },
+    "s_drillLoop": {
+      "start": 159,
+      "end": 162.1608163265306,
+      "loop": false
+    },
+    "s_drillStart": {
+      "start": 164,
+      "end": 164.41795918367347,
+      "loop": false
+    },
+    "s_drillWrong": {
+      "start": 166,
+      "end": 169.8138775510204,
+      "loop": false
+    },
+    "s_electricity": {
+      "start": 171,
+      "end": 174.08244897959185,
+      "loop": false
+    },
+    "s_elevator2": {
+      "start": 176,
+      "end": 177.9069387755102,
+      "loop": false
+    },
+    "s_elevatorButton": {
+      "start": 179,
+      "end": 179.39183673469387,
+      "loop": false
+    },
+    "s_elevator": {
+      "start": 181,
+      "end": 182.98530612244897,
+      "loop": false
+    },
+    "s_engineStart": {
+      "start": 184,
+      "end": 186.66448979591837,
+      "loop": false
+    },
+    "s_fall": {
+      "start": 188,
+      "end": 188.83591836734695,
+      "loop": false
+    },
+    "s_farmAmbient": {
+      "start": 190,
+      "end": 215.20816326530613,
+      "loop": false
+    },
+    "s_fold": {
+      "start": 217,
+      "end": 217.3657142857143,
+      "loop": false
+    },
+    "s_fuelConnect": {
+      "start": 219,
+      "end": 219.57469387755103,
+      "loop": false
+    },
+    "s_fuelExplosion": {
+      "start": 221,
+      "end": 224.7616326530612,
+      "loop": false
+    },
+    "s_fuelGround": {
+      "start": 226,
+      "end": 229.94448979591837,
+      "loop": false
+    },
+    "s_gas1": {
+      "start": 231,
+      "end": 231.94040816326532,
+      "loop": false
+    },
+    "s_gas2": {
+      "start": 233,
+      "end": 234.22775510204082,
+      "loop": false
+    },
+    "s_gas3": {
+      "start": 236,
+      "end": 237.6457142857143,
+      "loop": false
+    },
+    "s_gasLoop": {
+      "start": 239,
+      "end": 242.73551020408163,
+      "loop": false
+    },
+    "s_gasStart": {
+      "start": 244,
+      "end": 244.9142857142857,
+      "loop": false
+    },
+    "s_gateClose": {
+      "start": 246,
+      "end": 248.1942857142857,
+      "loop": false
+    },
+    "s_gate": {
+      "start": 250,
+      "end": 253.29142857142858,
+      "loop": false
+    },
+    "s_gateOpen": {
+      "start": 255,
+      "end": 257.5077551020408,
+      "loop": false
+    },
+    "s_gateOut": {
+      "start": 259,
+      "end": 265.24326530612245,
+      "loop": false
+    },
+    "s_generatorLoop": {
+      "start": 267,
+      "end": 270.9183673469388,
+      "loop": false
+    },
+    "s_generatorStart": {
+      "start": 272,
+      "end": 274.4032653061224,
+      "loop": false
+    },
+    "s_gravityEnd": {
+      "start": 276,
+      "end": 276.47020408163263,
+      "loop": false
+    },
+    "s_gravityLoop": {
+      "start": 278,
+      "end": 279.43673469387755,
+      "loop": false
+    },
+    "s_gravityStart": {
+      "start": 281,
+      "end": 281.6269387755102,
+      "loop": false
+    },
+    "s_handStartFinal": {
+      "start": 283,
+      "end": 285.06367346938777,
+      "loop": false
+    },
+    "s_handStart": {
+      "start": 287,
+      "end": 288.6457142857143,
+      "loop": false
+    },
+    "s_harbourAmbient": {
+      "start": 290,
+      "end": 297.13142857142856,
+      "loop": false
+    },
+    "s_hook": {
+      "start": 299,
+      "end": 299.6269387755102,
+      "loop": false
+    },
+    "s_hoseSlide": {
+      "start": 301,
+      "end": 302.3061224489796,
+      "loop": false
+    },
+    "s_iceberg": {
+      "start": 304,
+      "end": 307.84,
+      "loop": false
+    },
+    "s_jeepDream": {
+      "start": 309,
+      "end": 309.78367346938774,
+      "loop": false
+    },
+    "s_jet": {
+      "start": 311,
+      "end": 313.9779591836735,
+      "loop": false
+    },
+    "s_jump": {
+      "start": 315,
+      "end": 319.3624489795918,
+      "loop": false
+    },
+    "s_knockGlass": {
+      "start": 321,
+      "end": 321.4179591836735,
+      "loop": false
+    },
+    "s_labAmbient": {
+      "start": 323,
+      "end": 338.85632653061225,
+      "loop": false
+    },
+    "s_ladder": {
+      "start": 340,
+      "end": 342.4032653061224,
+      "loop": false
+    },
+    "s_laserDeath": {
+      "start": 344,
+      "end": 345.0187755102041,
+      "loop": false
+    },
+    "s_laserLoop": {
+      "start": 347,
+      "end": 350.134693877551,
+      "loop": false
+    },
+    "s_laserPaint": {
+      "start": 352,
+      "end": 356.0489795918367,
+      "loop": false
+    },
+    "s_lawnmowerLoop": {
+      "start": 358,
+      "end": 360.48163265306124,
+      "loop": false
+    },
+    "s_lawnmowerStart": {
+      "start": 362,
+      "end": 362.6530612244898,
+      "loop": false
+    },
+    "s_lever": {
+      "start": 364,
+      "end": 364.52244897959184,
+      "loop": false
+    },
+    "s_liftLever": {
+      "start": 366,
+      "end": 366.6269387755102,
+      "loop": false
+    },
+    "s_meteor1": {
+      "start": 368,
+      "end": 368.6530612244898,
+      "loop": false
+    },
+    "s_meteor2": {
+      "start": 370,
+      "end": 370.2873469387755,
+      "loop": false
+    },
+    "s_meteor3": {
+      "start": 372,
+      "end": 372.3395918367347,
+      "loop": false
+    },
+    "s_meteor4": {
+      "start": 374,
+      "end": 375.2277551020408,
+      "loop": false
+    },
+    "s_meteorExplosive": {
+      "start": 377,
+      "end": 381.12734693877553,
+      "loop": false
+    },
+    "s_meteor": {
+      "start": 383,
+      "end": 386.8922448979592,
+      "loop": false
+    },
+    "s_meteorPick": {
+      "start": 388,
+      "end": 388.47020408163263,
+      "loop": false
+    },
+    "s_meteorPlanted": {
+      "start": 390,
+      "end": 390.4179591836735,
+      "loop": false
+    },
+    "s_mill": {
+      "start": 392,
+      "end": 395.70938775510206,
+      "loop": false
+    },
+    "s_millSingle": {
+      "start": 397,
+      "end": 397.9142857142857,
+      "loop": false
+    },
+    "s_mteorFly": {
+      "start": 399,
+      "end": 404.27673469387753,
+      "loop": false
+    },
+    "s_mud": {
+      "start": 406,
+      "end": 406.9926530612245,
+      "loop": false
+    },
+    "s_outPart": {
+      "start": 408,
+      "end": 408.23510204081634,
+      "loop": false
+    },
+    "s_panic": {
+      "start": 410,
+      "end": 413.265306122449,
+      "loop": false
+    },
+    "s_partsFall": {
+      "start": 415,
+      "end": 415.705306122449,
+      "loop": false
+    },
+    "s_partSlide": {
+      "start": 417,
+      "end": 417.54857142857145,
+      "loop": false
+    },
+    "s_pickUp": {
+      "start": 419,
+      "end": 419.705306122449,
+      "loop": false
+    },
+    "s_pig1": {
+      "start": 421,
+      "end": 421.3395918367347,
+      "loop": false
+    },
+    "s_pig2": {
+      "start": 423,
+      "end": 423.3134693877551,
+      "loop": false
+    },
+    "s_pig3": {
+      "start": 425,
+      "end": 425.36571428571426,
+      "loop": false
+    },
+    "s_pigTomat": {
+      "start": 427,
+      "end": 427.9665306122449,
+      "loop": false
+    },
+    "s_portalSlide": {
+      "start": 429,
+      "end": 429.6269387755102,
+      "loop": false
+    },
+    "s_press": {
+      "start": 431,
+      "end": 438.28816326530614,
+      "loop": false
+    },
+    "s_pressPhoto": {
+      "start": 440,
+      "end": 447.54938775510203,
+      "loop": false
+    },
+    "spring": {
+      "start": 449,
+      "end": 449.705306122449,
+      "loop": false
+    },
+    "s_redButton": {
+      "start": 451,
+      "end": 456.250612244898,
+      "loop": false
+    },
+    "s_refueling": {
+      "start": 458,
+      "end": 462.75428571428574,
+      "loop": false
+    },
+    "s_roadNoise": {
+      "start": 464,
+      "end": 469.19836734693877,
+      "loop": false
+    },
+    "s_rockeLaunch": {
+      "start": 471,
+      "end": 483.35591836734693,
+      "loop": false
+    },
+    "s_rockeNose": {
+      "start": 485,
+      "end": 487.5077551020408,
+      "loop": false
+    },
+    "s_rocketDoor": {
+      "start": 489,
+      "end": 491.48163265306124,
+      "loop": false
+    },
+    "s_rope": {
+      "start": 493,
+      "end": 494.85469387755103,
+      "loop": false
+    },
+    "s_rotationParts2": {
+      "start": 496,
+      "end": 496.36571428571426,
+      "loop": false
+    },
+    "s_rotationParts3": {
+      "start": 498,
+      "end": 498.23510204081634,
+      "loop": false
+    },
+    "s_rotationParts": {
+      "start": 500,
+      "end": 500.3395918367347,
+      "loop": false
+    },
+    "s_scafandr": {
+      "start": 502,
+      "end": 503.28,
+      "loop": false
+    },
+    "s_shipHorn": {
+      "start": 505,
+      "end": 507.8995918367347,
+      "loop": false
+    },
+    "s_shipLadder": {
+      "start": 509,
+      "end": 512.6832653061224,
+      "loop": false
+    },
+    "s_shipOut": {
+      "start": 514,
+      "end": 517.5526530612245,
+      "loop": false
+    },
+    "s_shipOutstart": {
+      "start": 519,
+      "end": 520.4628571428572,
+      "loop": false
+    },
+    "s_signal": {
+      "start": 522,
+      "end": 522.9926530612245,
+      "loop": false
+    },
+    "s_slideBox": {
+      "start": 524,
+      "end": 524.6530612244898,
+      "loop": false
+    },
+    "s_slideElement": {
+      "start": 526,
+      "end": 526.574693877551,
+      "loop": false
+    },
+    "s_slide": {
+      "start": 528,
+      "end": 528.5485714285714,
+      "loop": false
+    },
+    "s_slotMachine": {
+      "start": 530,
+      "end": 530.6530612244898,
+      "loop": false
+    },
+    "s_spaceAmbient": {
+      "start": 532,
+      "end": 540.2808163265306,
+      "loop": false
+    },
+    "s_spaceOut": {
+      "start": 542,
+      "end": 546.3624489795918,
+      "loop": false
+    },
+    "s_testEnd": {
+      "start": 548,
+      "end": 549.5151020408164,
+      "loop": false
+    },
+    "s_testLoop": {
+      "start": 551,
+      "end": 552.6718367346939,
+      "loop": false
+    },
+    "s_testStart": {
+      "start": 554,
+      "end": 555.1232653061224,
+      "loop": false
+    },
+    "s_timer": {
+      "start": 557,
+      "end": 557.4179591836735,
+      "loop": false
+    },
+    "s_tinsFall": {
+      "start": 559,
+      "end": 562.0824489795918,
+      "loop": false
+    },
+    "s_tomatPick": {
+      "start": 564,
+      "end": 564.4963265306122,
+      "loop": false
+    },
+    "s_track": {
+      "start": 566,
+      "end": 567.3583673469387,
+      "loop": false
+    },
+    "s_tractorEngineGas": {
+      "start": 569,
+      "end": 570.6195918367347,
+      "loop": false
+    },
+    "s_tractorEngine": {
+      "start": 572,
+      "end": 575.6571428571428,
+      "loop": false
+    },
+    "s_tractorSnore": {
+      "start": 577,
+      "end": 581.3624489795918,
+      "loop": false
+    },
+    "s_tractorWakeup": {
+      "start": 583,
+      "end": 585.2204081632653,
+      "loop": false
+    },
+    "s_trampline": {
+      "start": 587,
+      "end": 587.4179591836735,
+      "loop": false
+    },
+    "s_truck": {
+      "start": 589,
+      "end": 598.7175510204081,
+      "loop": false
+    },
+    "s_truckOut": {
+      "start": 600,
+      "end": 605.6685714285715,
+      "loop": false
+    },
+    "s_turnOn": {
+      "start": 607,
+      "end": 607.1044897959183,
+      "loop": false
+    },
+    "s_twist": {
+      "start": 609,
+      "end": 609.3395918367347,
+      "loop": false
+    },
+    "s_upStartloop": {
+      "start": 611,
+      "end": 612.0448979591837,
+      "loop": false
+    },
+    "s_upStart": {
+      "start": 614,
+      "end": 614.4702040816327,
+      "loop": false
+    },
+    "s_valve": {
+      "start": 616,
+      "end": 616.835918367347,
+      "loop": false
+    },
+    "s_vent": {
+      "start": 618,
+      "end": 624.4783673469387,
+      "loop": false
+    },
+    "s_waterLoop": {
+      "start": 626,
+      "end": 628.7689795918367,
+      "loop": false
+    },
+    "s_wheel": {
+      "start": 630,
+      "end": 630.8620408163265,
+      "loop": false
+    },
+    "s_wheelyDiag": {
+      "start": 632,
+      "end": 633.0710204081632,
+      "loop": false
+    },
+    "s_wheelyEngine": {
+      "start": 635,
+      "end": 639.2057142857143,
+      "loop": false
+    },
+    "s_wheelyForcage": {
+      "start": 641,
+      "end": 642.1232653061224,
+      "loop": false
+    },
+    "s_wind": {
+      "start": 644,
+      "end": 648.1012244897959,
+      "loop": false
+    },
+    "s_windParachute": {
+      "start": 650,
+      "end": 653.4481632653061,
+      "loop": false
+    },
+    "whelly_start": {
+      "start": 655,
+      "end": 657.094149659864,
+      "loop": false
+    },
+    "whelly_stop": {
+      "start": 659,
+      "end": 659.5297052154195,
+      "loop": false
+    }
+  }
+}
